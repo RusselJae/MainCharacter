@@ -1,3 +1,3 @@
 # MainCharacter
 
-#This is my main character named Elias
+#This is my main character named Elias.
